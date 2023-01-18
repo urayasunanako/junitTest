@@ -14,7 +14,7 @@ class JudgeUtilsTest {
 	SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
 	// ********************************
-	// isBillingAge()
+	// isBillingAge()TEST
 	// ********************************
 
 	// ケースNo1
